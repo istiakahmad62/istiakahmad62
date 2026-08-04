@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--istiak--ahmad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-istiak-ahmad/)
 [![Email](https://img.shields.io/badge/Email-istiak.corporate%40gmail.com-DD0031?style=flat&logo=gmail&logoColor=white)](mailto:istiak.corporate@gmail.com)
 
+[![Istiak Ahmad — Full‑Stack Software Engineer](https://raw.githubusercontent.com/istiakahmad62/istiakahmad62/main/assets/banner.svg)](https://github.com/istiakahmad62/istiakahmad62/blob/main/assets/banner.svg)
+
 Full‑Stack Software Engineer • React • Next.js • TypeScript • Node.js
 
 Building production-ready, maintainable web applications that solve real business problems using clean architecture and modern tooling. I combine practical engineering with AI-assisted workflows.
