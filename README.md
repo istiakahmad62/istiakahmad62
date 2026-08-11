@@ -23,9 +23,9 @@ Working on building scalable full‑stack SaaS apps and improving developer prod
 ---
 
 ## 📌 Pinned Projects
-- [istiakahmad62/Medical-Journal-Library](https://github.com/istiakahmad62/Medical-Journal-Library) — Medical Journal Library Frontend (React) — a React SPA to browse, search and explore medical journal reviews. • TypeScript
-- [istiakahmad62/Hotel-Venue-Systen](https://github.com/istiakahmad62/Hotel-Venue-Systen) — Hotel Venue System - Retreat — full‑stack app for discovering and booking venues (Next.js, Prisma). • TypeScript
-- [istiakahmad62/Bookin-App](https://github.com/istiakahmad62/Bookin-App) — Bookin App — reservation and booking UI built with TypeScript. • TypeScript
+- [Hotel Venue System - Retreat](https://github.com/istiakahmad62/Hotel-Venue-Systen) — A full-stack application for discovering and booking venues for team offsites. [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Hotel-Venue-Systen?style=flat-square)](https://github.com/istiakahmad62/Hotel-Venue-Systen)
+- [Booking App](https://github.com/istiakahmad62/Bookin-App) — A lightweight booking UI built with TypeScript and Next.js (App Router). [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Bookin-App?style=flat-square)](https://github.com/istiakahmad62/Bookin-App)
+- [Medical Journal Library Frontend (React)](https://github.com/istiakahmad62/Medical-Journal-Library) — A React 18 SPA to visualize and search medical journal reviews. [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Medical-Journal-Library?style=flat-square)](https://github.com/istiakahmad62/Medical-Journal-Library)
 
 ---
 
