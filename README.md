@@ -23,9 +23,9 @@ Working on building scalable full‑stack SaaS apps and improving developer prod
 ---
 
 ## 📌 Pinned Projects
-- [istiakahmad62/Medical-Journal-Library](https://github.com/istiakahmad62/Medical-Journal-Library) — Medical Journal Library Frontend (React) — a React SPA to browse, search and explore medical journal reviews. • TypeScript • 0 stars
-- [istiakahmad62/Hotel-Venue-Systen](https://github.com/istiakahmad62/Hotel-Venue-Systen) — Hotel Venue System - Retreat — full‑stack app for discovering and booking venues (Next.js, Prisma). • TypeScript • 1 star
-- [istiakahmad62/Bookin-App](https://github.com/istiakahmad62/Bookin-App) — Bookin App — reservation and booking UI built with TypeScript. • TypeScript • 1 star
+- [istiakahmad62/Medical-Journal-Library](https://github.com/istiakahmad62/Medical-Journal-Library) — Medical Journal Library Frontend (React) — a React SPA to browse, search and explore medical journal reviews. • TypeScript
+- [istiakahmad62/Hotel-Venue-Systen](https://github.com/istiakahmad62/Hotel-Venue-Systen) — Hotel Venue System - Retreat — full‑stack app for discovering and booking venues (Next.js, Prisma). • TypeScript
+- [istiakahmad62/Bookin-App](https://github.com/istiakahmad62/Bookin-App) — Bookin App — reservation and booking UI built with TypeScript. • TypeScript
 
 ---
 
