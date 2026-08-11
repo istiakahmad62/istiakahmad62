@@ -23,9 +23,9 @@ Working on building scalable full‑stack SaaS apps and improving developer prod
 ---
 
 ## 📌 Pinned Projects
-- 🔐 Authentication System — Scalable auth service with JWT, role-based access, email verification & refresh tokens  
-- 📦 Inventory Management — Dashboard, product management, order tracking, search & reporting  
-- 📅 Leave Management System — Employee leave workflows, approvals, and reporting
+- [@istiakahmad62/Medical-Journal-Library](https://github.com/istiakahmad62/Medical-Journal-Library) — Medical Journal Library — web app for browsing and organizing medical journals.
+- [@istiakahmad62/Hotel-Venue-Systen](https://github.com/istiakahmad62/Hotel-Venue-Systen) — Hotel Venue System — venue and booking management app.
+- [@istiakahmad62/Bookin-App](https://github.com/istiakahmad62/Bookin-App) — Bookin App — reservation and booking UI built with TypeScript.
 
 ---
 
