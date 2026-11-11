@@ -23,9 +23,23 @@ Working on building scalable full‑stack SaaS apps and improving developer prod
 ---
 
 ## 📌 Pinned Projects
-- [Hotel Venue System - Retreat](https://github.com/istiakahmad62/Hotel-Venue-Systen) — A full-stack application for discovering and booking venues for team offsites. [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Hotel-Venue-Systen?style=flat-square)](https://github.com/istiakahmad62/Hotel-Venue-Systen)
-- [Booking App](https://github.com/istiakahmad62/Bookin-App) — A lightweight booking UI built with TypeScript and Next.js (App Router). [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Bookin-App?style=flat-square)](https://github.com/istiakahmad62/Bookin-App)
-- [Medical Journal Library Frontend (React)](https://github.com/istiakahmad62/Medical-Journal-Library) — A React 18 SPA to visualize and search medical journal reviews. [![Language](https://img.shields.io/github/languages/top/istiakahmad62/Medical-Journal-Library?style=flat-square)](https://github.com/istiakahmad62/Medical-Journal-Library)
+
+### 🏥 [Population-Based Cancer Registry](https://github.com/istiakahmad62/Population-Based-Cancer-Registry) · [Live Demo](https://next-app-pop-based.vercel.app)
+Health data platform for recording, tracking and analysing cancer and disease cases at the household level.
+- Secure login and sign-up with NextAuth (JWT) and middleware-protected routes
+- Multi-step data-entry forms for household, member, cancer, stroke and disease records, validated with React Hook Form + Zod
+- Patient follow-up tracking, user management and a full activity log
+- Statistics dashboards by cancer type, disease and risk factor with Chart.js, plus filtering and data export
+
+`Next.js 14` `TypeScript` `NextAuth` `React Query` `React Hook Form` `Zod` `Ant Design` `shadcn/ui` `Tailwind CSS` `Chart.js`
+
+### 🏨 [Hotel Venue System — Retreat](https://github.com/istiakahmad62/Hotel-Venue-System)
+Full-stack app for discovering and booking venues for team offsites.
+- REST API for filtering venues by city, capacity and price, plus booking inquiries with Zod validation (capacity limits, date ranges, no past dates)
+- Search page with live filtering, venue detail pages, and a validated booking form with loading and error states
+- Prisma schema with a seed script (SQLite by default, PostgreSQL-ready)
+
+`Next.js 15` `TypeScript` `Prisma` `Zod` `Tailwind CSS`
 
 ---
 
